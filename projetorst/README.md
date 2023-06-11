@@ -52,6 +52,8 @@ Todos os projetos criados no Snack estão disponíveis publicamente, então voc�
 
 1. Acesse o link https://snack.expo.dev/@guilhermebelonidev/projetorst e veja a aplicação.
 
+2. Selecione "Android" para emular a aplicação, dessa forma todas as funcionalidades serão apresentadas sem erros. 
+
 
 ## Contribuição
 

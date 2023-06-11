@@ -120,7 +120,9 @@ const CarrinhoScreen = ({ navigation }) => {
   const msgFinal = () => {
     let produto = produtos;
     if (produto != 0) {
-      verificaEnvio();
+      verificaEnvio()
+      Alert.alert('Pedido enviado com sucesso!')
+      navigation.navigate('Menu');
 
       //clearStates();
     } else {
